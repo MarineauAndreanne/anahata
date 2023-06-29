@@ -13,6 +13,8 @@ const About = () => {
               <Icon>{item.icon}</Icon>
               <Title>{item.title}</Title>
               <Description>{item.desc}</Description>
+              <Description>{item.desc}</Description>
+              <Description>{item.desc}</Description>
             </AboutBox>
           )
         })}
